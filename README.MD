@@ -35,8 +35,8 @@ Offline-GenAI-Chatbot/
     ├── tokenizer files
     └── model weight files
 ```
-## Screenshot
-https://github.com/aniruddhchougule22/Offline-Generative-AI-Chatbot-with-Conversation-History/blob/19c04c8b9355c86e7d49a90593900b61a0ee37f2/Screenshot%202026-10-19%20205733.png
+![image alt].(https://github.com/aniruddhchougule22/Offline-Generative-AI-Chatbot-with-Conversation-History/blob/471671700054f30f6b6d36dc35b91f0231d0ba51/picture%2011.png).
+
 
 The `smollm2_model/` directory is created when you run the model-download cells. Exact files may vary by Transformers/model version. The model directory can be large, so it is usually better not to commit it to GitHub unless you specifically intend to distribute the model files.
 
